@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="paint.css">
+    <link type="Image/x-icon" href="favicon.ico" rel="icon"> 
+    <title>Draw Something!</title>
+</head>
+<body>
+    
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+          <span class="close"></span>
+          <p id="message"></p>
+        </div>
+     </div>
+
+    <canvas id="canvas"></canvas>
+    <div class="nav">
+        <input class="color-picker" type="color" id="color-picker"> |
+        <div class="clr" data-clr="#fff"></div>
+        <div class="clr" data-clr="#EF626C"></div>
+        <div class="clr" data-clr="#fda503"></div>
+        <div class="clr" data-clr="#fdec03"></div>
+        <div class="clr" data-clr="#24d102"></div>
+        <div class="clr" data-clr="#21d3d3"></div>
+        <div class="clr" data-clr="#1775e0"></div>
+        <div class="clr" data-clr="#820b8d"></div>
+        <div class="clr" data-clr="#dd12aa"></div>
+        <div class="clr" data-clr="#000"></div>
+        <button class="clear">Clear</button>
+        <button class="save" type="submit" id="submit">Save</button> 
+        <input type="text" id="nameOfPicture" maxlength="20" value="Name of your picture">
+    </div>
+    <script src="paint.js"></script>
+    <script src="modalWindow.js"></script>
+</body>
+</html>
