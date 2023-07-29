@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\account.css",
+      "PackagePath": "staticwebassets\\account.css"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\account.html",
+      "PackagePath": "staticwebassets\\account.html"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\account.js",
+      "PackagePath": "staticwebassets\\account.js"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\index.css",
+      "PackagePath": "staticwebassets\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\index.js",
+      "PackagePath": "staticwebassets\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\logIn.css",
+      "PackagePath": "staticwebassets\\logIn.css"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\logIn.html",
+      "PackagePath": "staticwebassets\\logIn.html"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\logIn.js",
+      "PackagePath": "staticwebassets\\logIn.js"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\modalWindow.js",
+      "PackagePath": "staticwebassets\\modalWindow.js"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\paint.css",
+      "PackagePath": "staticwebassets\\paint.css"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\paint.html",
+      "PackagePath": "staticwebassets\\paint.html"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\paint.js",
+      "PackagePath": "staticwebassets\\paint.js"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\signUp.css",
+      "PackagePath": "staticwebassets\\signUp.css"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\signUp.html",
+      "PackagePath": "staticwebassets\\signUp.html"
+    },
+    {
+      "Id": "C:\\Users\\heaka\\MinAPI\\wwwroot\\signUp.js",
+      "PackagePath": "staticwebassets\\signUp.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MinAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MinAPI.props",
+      "PackagePath": "build\\MinAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MinAPI.props",
+      "PackagePath": "buildMultiTargeting\\MinAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MinAPI.props",
+      "PackagePath": "buildTransitive\\MinAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
